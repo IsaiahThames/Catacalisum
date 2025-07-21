@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Casters.md",
+                "file": "catoclisum/Chaotic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human Casters"
+              "title": "Chaotic"
             }
           }
         ],
@@ -179,8 +179,11 @@
   },
   "active": "35c9417a48c9d6bd",
   "lastOpenFiles": [
+    "catoclisum/Refined.md",
+    "catoclisum/Chaotic.md",
+    "catoclisum/Gods.md",
+    "catoclisum/Cris.md",
     "Human Casters.md",
-    "catoclisum/Magic.md",
-    "catoclisum/Chaotic.md"
+    "catoclisum/Magic.md"
   ]
 }
