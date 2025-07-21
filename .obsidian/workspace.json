@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "catoclisum/Magic.md",
+                "file": "K2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "K2"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Casters.md",
+                "file": "Reginal Powers/R5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human Casters"
+              "title": "R5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +177,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35c9417a48c9d6bd",
+  "active": "5eb29cbbe6617483",
   "lastOpenFiles": [
+    "Kingdoms/Kingdoms of the world.md",
+    "K2.md",
+    "Kingdoms/K1.md",
+    "Reginal Powers/R5.md",
+    "Reginal Powers",
+    "Untitled.md",
+    "Magic Types/Magic.md",
+    "Magic Types/Creation.md",
+    "Magic Types/Earth.md",
+    "Magic Types/Fire.md",
+    "Magic Types/Wind.md",
+    "Magic Types/Water.md",
+    "Magic Types/Refined.md",
+    "Magic Types/Chaotic.md",
+    "Gust.md",
+    "Magic Types/Refined Cat/Conjuring.md",
+    "Gods",
+    "Kingdoms",
+    "Magic Types/Refined Cat/Ice.md",
+    "Magic Types/Refined Cat/Shards.md",
+    "Magic Types/Refined Cat/Sparks.md",
+    "Magic Types/Refined Cat/Gale.md",
+    "Magic Types/Chaotic cat/Necromancy.md",
+    "Magic Types/Chaotic cat/Flood.md",
+    "Magic Types/Chaotic cat/Earthquake.md",
+    "Magic Types/Chaotic cat/Blaze.md",
+    "Magic Types/Chaotic cat/Storm.md",
     "Human Casters.md",
-    "catoclisum/Magic.md",
-    "catoclisum/Chaotic.md"
+    "Magic Types/Refined Cat",
+    "Magic Types/Chaotic cat",
+    "Magic Types"
   ]
 }
