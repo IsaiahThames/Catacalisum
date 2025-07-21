@@ -1,0 +1,1 @@
+The headmaster of the #Manufacturing school of [[Kimdok academy]].
