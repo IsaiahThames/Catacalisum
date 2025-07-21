@@ -9,7 +9,7 @@ Every soul is born with an innate attunement to a type of magic. The types of ma
 These attunements can not be changed tho they may be inherited. However inheritance is not garented. So a family can have a child a Wind attunement but both parents are Earth attuned. This is rare and considered the vast outlier to the norm. Each attunement of magic have a [[Refined]] Side and A [[Chaotic]] Side. This is random and is not inherited, So a family of all refined magic will quite regularly have a child that is chaotic and vis versa. Every society sees this differently and many have scocial classes based on what Side of the attunement you fall on. The types of break down of the attunements are:
 
 Refined/Chaotic
-[[Gust]]/[[Storm]]
+[[Gale]]/[[Storm]]
 [[Sparks]]/[[Blaze]]
 [[Shards]]/[[Earthquake]]
 [[Ice]]/[[Flood]]
