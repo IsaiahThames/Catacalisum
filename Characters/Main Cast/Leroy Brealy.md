@@ -1,4 +1,4 @@
-Leroy is a new graduate of the [[Kimdok academy]]. He's joining the Terraformers branch of the military. While not at the top of his class his skills with [[Earthquake]] Magic is more accurately understood from the lense of his creativity. 
+Leroy is a new graduate of the [[Kimdok academy]]. He's joining the Terraformers branch of the military. While not at the top of his class his skills with [[Earthquake]] Magic is more accurately understood from the lens of his creativity. 
 
 # Personality 
 Most often compared to a Labrador with his loyalty and love for antics, tho his detractors are just as likely to call him a pig for his love of rolling around in his creations. 
