@@ -1,0 +1,1 @@
+The headmaster for the #Naval school for the [[Kimdok academy]]. 

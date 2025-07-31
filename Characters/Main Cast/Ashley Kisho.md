@@ -1,4 +1,4 @@
-Ashley is a new graduate of the [[Kimdok academy ]]and is joining the military in the Manufacturing branch. She is a [[Blaze]] type mage and is the best artificer in her class. Her specialty is crafting Golems.
+Ashley is a new graduate of the [[Kimdok academy ]]and is joining the military in the #Manufacturing branch. She is a [[Blaze]] type mage and is the best artificer in her class. Her specialty is crafting Golems.
 
 # Personality
 She has a high level of perseverance tho her temperament for people is a lot lower. Her attitude towards her friends is warm and tho the ones she choses to call friends are heavily vetted. 

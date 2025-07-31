@@ -5,16 +5,16 @@ Contrary to how the different  schools within the academy behave Kimdok academy 
 Its students are broken up into 5 different schools:
 
 # #Garrison 
-The garrison school trains the guard and the standing military. Known for its toxic environment. Kids that are placed into this school need to be resilient and determined to graduate. When applying to this school kids need to score high not only on their written test but also their practical. This school looks mainly for those with high natural ability for their magic it will occasionally accept those thats mental strength test high(tho they will make it a point to test this). The headmaster of this school is [[Krish Polmars]]. 
+The garrison school trains the guard and the standing military. Known for its toxic environment. Kids that are placed into this school need to be resilient and determined to graduate. When applying to this school kids need to score high not only on their written test but also their practical. This school looks mainly for those with high natural ability for their magic it will occasionally accept those that's mental strength test high(tho they will make it a point to test this). The headmaster of this school is [[Krish Polmars]]. 
 
 # #Civil  
-The civil school trains its students for managing and maintaining the population of Kimdok. This school takes all students that score high on the written test but fail on the practical. Its students don't need to use their magic all to often and are mostly those that want a quieter existance to the fast pace and get up and go of the other branches. The headmaster of this school is [[Hammon Yamen]]. 
+The civil school trains its students for managing and maintaining the population of Kimdok. This school takes all students that score high on the written test but fail on the practical. Its students don't need to use their magic all to often and are mostly those that want a quieter existence to the fast pace and get up and go of the other branches. The headmaster of this school is [[Hammon Yamen]]. 
 
 # #Manufacturing 
-The manufacturing school is the largest of all the branches of the military. Its students are known for their stand-offish nature and pride. Needing an exepualy high score on the writen test and to score high on the endurance portion of the practical its low acceptance rate is rivaled only by the naval school. The headmaster of this school is [[Obrea Kisho]]
-
+The manufacturing school is the largest of all the branches of the military. Its students are known for their stand-offish nature and pride. Needing an exemplary high score on the written test and to score high on the endurance portion of the practical its low acceptance rate is rivaled only by the naval school. This school's students are the engineers and manufacturers of the kingdom. Having graduated from the school is seen as an honor and achievement guaranteeing you a job anywhere within and without. The headmaster of this school is [[Obrea Kisho]].
 
 # #Terraforming 
-
+The terraforming school is a school defined by its grittiness and the crassness of its students. Seen as the lowest rung of the social standing within the school its students are those that don't care much for the opinions of others. The school doesn't only accept earth mages and ultimately the philosophy is more about changing and shaping the environment for human use rather than the direct molding of the terrain itself. Its students not only go on to be the land barons and farmers, but also those that are sent on scouting missions for new lands and border expansion serving as the kingdoms colonizing force. Its headmaster is [[Gris Lok]]. 
 
 # #Naval
+The Naval school is the most exclusive of all the schools. Mostly seen as the most aristocratic of all the school to get in you have to score highly on every metric while also passing the mental competency screening. This has been reasoned that this is because being at sea for that long needs someone that has mental fortitude as well not to go insane but is seen wider as just another form indoctrination. Rising and training the next generation of naval officers the naval school still advocates till this day that they should be a separate institution all together, and over the years its gained more and more support. Its headmaster is [[Sukra Jahar]] 

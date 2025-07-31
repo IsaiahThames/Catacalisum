@@ -1,0 +1,1 @@
+The headmaster of the #Terraforming school for the [[Kimdok academy]]

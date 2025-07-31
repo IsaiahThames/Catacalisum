@@ -1,0 +1,8 @@
+Bran is a new graduate of the [[Kimdok academy]] and is joining the military in the #Manufacturing branch. He is a [[Necromancy]] mage that hide his true attunement by pretending to be a [[Conjuring]] mage. 
+
+# Personality
+Being raised to always hide his attunement he naturally began to pull away from people and tried his best to always stay hidden. Because of his seclusion however he did draw [[Trish Vebra]]'s attention and she chose to become friends with him. 
+
+
+# Background
+His background is only know by the headmasters of each school and the Dean. He was found in the [[Innerlands]] as a child. He was being protected by some fanatics from [[R5]]. When the military found out there was a portion of them hiding out they imminently went out and arrested them however they did not know they had a child. Once they saw the child they took him in as he was not going to be tried as a fanatic but as he grew up they realized that he was a necromancer. The protocols were to arrest him and hold him but when [[Parker Kimdok]] found out about his fate he stepped in and took the child in as his own promising that he would be responsible for if the child every started to practice necromancy. As Parker was a conjurer himself he taught the child how to mask his natural attunement. Seeing that Bran was never going to have as high of a skill with conjuring as people born with it Parker saw it fit to enroll him in the manufacturing branch so that he could hide away and have somewhat of a normal existence. 
